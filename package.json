@@ -1,0 +1,22 @@
+{
+  "name": "cookie-study",
+  "version": "1.0.0",
+  "description": "cookie-study",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshi-practice/cookie-study.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "yoshi1125hisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshi-practice/cookie-study/issues"
+  },
+  "homepage": "https://github.com/yoshi-practice/cookie-study#readme"
+}
